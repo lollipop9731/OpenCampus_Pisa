@@ -1,6 +1,3 @@
-#### setting up working directory ##############################################
-setwd("C:/Users/Martin/Desktop/data_science/PISA-2015-GERMANY/")
-
 #### packages ##################################################################
 library("haven")  # import of the SPSS dataset
 library("ggplot2")
